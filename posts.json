@@ -1380,6 +1380,46 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2021-12-17 11:01:43"
+		},
+		"141": {
+			"id": "141",
+			"title": "js 배열 내장함수 (지속적인 업데이트 예정)",
+			"postUrl": "https://ckdals82.tistory.com/141",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2021-12-19 19:39:45"
+		},
+		"142": {
+			"id": "142",
+			"title": "동기, 비동기 처리 방식",
+			"postUrl": "https://ckdals82.tistory.com/142",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2021-12-19 20:54:50"
+		},
+		"143": {
+			"id": "143",
+			"title": "콜백지옥과 promise",
+			"postUrl": "https://ckdals82.tistory.com/143",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2021-12-19 21:48:11"
+		},
+		"144": {
+			"id": "144",
+			"title": "async await",
+			"postUrl": "https://ckdals82.tistory.com/144",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2021-12-19 21:52:18"
 		}
 	}
 }
