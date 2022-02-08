@@ -1750,6 +1750,16 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-01-23 22:20:04"
+		},
+		"178": {
+			"id": "178",
+			"title": "자바스크립트 변수를 리액트 안에서 사용하는 방법",
+			"postUrl": "https://ckdals82.tistory.com/178",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-02-08 18:13:36"
 		}
 	}
 }
