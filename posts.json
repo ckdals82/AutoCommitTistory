@@ -1970,6 +1970,26 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-04-14 21:56:13"
+		},
+		"200": {
+			"id": "200",
+			"title": "Router 활용",
+			"postUrl": "https://ckdals82.tistory.com/200",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-04-15 17:52:02"
+		},
+		"201": {
+			"id": "201",
+			"title": "path veriable , query string , navigate REACT",
+			"postUrl": "https://ckdals82.tistory.com/201",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-04-15 18:18:27"
 		}
 	}
 }
