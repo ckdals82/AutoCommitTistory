@@ -2090,6 +2090,26 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-05-05 21:57:22"
+		},
+		"212": {
+			"id": "212",
+			"title": "특성 선택자 , 의사 클래스(가상 클래스)",
+			"postUrl": "https://ckdals82.tistory.com/212",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-05-06 17:53:33"
+		},
+		"213": {
+			"id": "213",
+			"title": "pull request (p.r) git 기초 공부#4",
+			"postUrl": "https://ckdals82.tistory.com/213",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-05-06 18:25:49"
 		}
 	}
 }
