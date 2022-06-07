@@ -2220,6 +2220,26 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-05-28 16:11:11"
+		},
+		"225": {
+			"id": "225",
+			"title": "typeScript 함수 타입",
+			"postUrl": "https://ckdals82.tistory.com/225",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-06-07 15:33:42"
+		},
+		"226": {
+			"id": "226",
+			"title": "type alias",
+			"postUrl": "https://ckdals82.tistory.com/226",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-06-07 16:29:48"
 		}
 	}
 }
