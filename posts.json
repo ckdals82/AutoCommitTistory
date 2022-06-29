@@ -2330,6 +2330,26 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-06-27 22:26:32"
+		},
+		"236": {
+			"id": "236",
+			"title": "왜 타입스크립트를 사용하는가",
+			"postUrl": "https://ckdals82.tistory.com/236",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-06-29 23:09:11"
+		},
+		"237": {
+			"id": "237",
+			"title": "선택적 매개변수?",
+			"postUrl": "https://ckdals82.tistory.com/237",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-06-30 00:11:05"
 		}
 	}
 }
