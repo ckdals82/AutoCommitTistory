@@ -2620,6 +2620,46 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2022-09-27 19:50:42"
+		},
+		"265": {
+			"id": "265",
+			"title": "front rollback , gitea 서버 , jenkins 젠킨스 서버(백업해보고 작성하기.)",
+			"postUrl": "https://ckdals82.tistory.com/265",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-10-04 19:18:36"
+		},
+		"266": {
+			"id": "266",
+			"title": "빌드와 배포를 이해",
+			"postUrl": "https://ckdals82.tistory.com/266",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-10-04 20:03:42"
+		},
+		"267": {
+			"id": "267",
+			"title": "서버들",
+			"postUrl": "https://ckdals82.tistory.com/267",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-10-04 20:35:25"
+		},
+		"268": {
+			"id": "268",
+			"title": "수동으로 빌드시",
+			"postUrl": "https://ckdals82.tistory.com/268",
+			"visibility": "0",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2022-10-04 20:36:03"
 		}
 	}
 }
