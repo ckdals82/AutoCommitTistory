@@ -2920,6 +2920,26 @@
 			"comments": "0",
 			"trackbacks": "0",
 			"date": "2023-03-23 20:23:54"
+		},
+		"295": {
+			"id": "295",
+			"title": "서버사이드 렌더링 , csr과 ssr 차이",
+			"postUrl": "https://ckdals82.tistory.com/295",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2023-03-26 17:17:00"
+		},
+		"296": {
+			"id": "296",
+			"title": "osi 7계층",
+			"postUrl": "https://ckdals82.tistory.com/296",
+			"visibility": "20",
+			"categoryId": "0",
+			"comments": "0",
+			"trackbacks": "0",
+			"date": "2023-03-26 19:39:04"
 		}
 	}
 }
